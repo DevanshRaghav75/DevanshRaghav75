@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm HS Devansh Raghav</h1>
 <h3 align="center">I am a Student and Cyber security researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshraghav75&label=Profile%20views&color=0e75b6&style=flat" alt="devanshraghav75" /> </p>
@@ -28,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshraghav75&show_icons=true&locale=en&layout=compact" alt="devanshraghav75" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshraghav75&show_icons=true&locale=en" alt="devanshraghav75" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshraghav75&" alt="devanshraghav75" /></p>
