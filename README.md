@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devansh05318209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devansh05318209" height="30" width="40" /></a>
-<a href="https://instagram.com/hs_devansh_raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hs_devansh_raghav" height="30" width="40" /></a>
+<a href="https://instagram.com/hs_devansh_raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hs_devansh_raghav " height="30" width="40" /></a>
 <a href="https://medium.com/@dev-evilsec-75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dev-evilsec-75" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@indiananonymous75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@indiananonymous75" height="30" width="40" /></a>
 </p>
