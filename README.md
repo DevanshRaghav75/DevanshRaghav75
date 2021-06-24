@@ -2,8 +2,7 @@
 <h3 align="center">I am a Student and Cyber security researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshraghav75&label=Profile%20views&color=0e75b6&style=flat" alt="devanshraghav75" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshraghav75" alt="devanshraghav75" /></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on **FALL tool**
 
