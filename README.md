@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshraghav75&label=Profile%20views&color=0e75b6&style=flat" alt="devanshraghav75" /> </p>
 </a> </p>
 
-- 🔭 I’m currently working on **FALL tool**
-
 - 🌱 I’m currently learning **Active directory exploitation and Reverse engineering**
 
 - 📝 I regularly write articles on [https://dev-evilsec-75.medium.com/](https://dev-evilsec-75.medium.com/)
