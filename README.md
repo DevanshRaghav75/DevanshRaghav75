@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://dev-evilsec-75.medium.com/](https://dev-evilsec-75.medium.com/)
 
-- 📫 How to reach me **indiananonymous75@gmail.com**
+- 📫 How to reach me **devanshraghav3@gmail.com**
 
 - ⚡ Fun fact **I am a little bit shy person**
 
