@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HS Devansh Raghav</h1>
-<h3 align="center">Cybersecurity researcher & Programmers</h3>
+<h3 align="center">Cybersecurity researcher & Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshraghav75&label=Profile%20views&color=0e75b6&style=flat" alt="devanshraghav75" /> </p>
 </a> </p>
