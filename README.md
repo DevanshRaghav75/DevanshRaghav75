@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **devanshraghav3@gmail.com**
 
-- ⚡ Fun fact **I am a little bit shy person**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devansh05318209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devansh05318209" height="30" width="40" /></a>
